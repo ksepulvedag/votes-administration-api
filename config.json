@@ -1,0 +1,6 @@
+{
+    "url-backend": "127.0.0.1",
+    "port": 9999,
+    "data-db-connection": "mongodb+srv://<username>:<password>@<cluster-url>/<cluster-name>?retryWrites=true&w=majority",
+    "name-db":"database-name"
+}
